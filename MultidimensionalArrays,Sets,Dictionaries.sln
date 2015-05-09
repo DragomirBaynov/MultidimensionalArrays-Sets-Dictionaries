@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LastDigitOfNumber", "02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LargerThanNeighbours", "03.LargerThanNeighbours\03.LargerThanNeighbours.csproj", "{9FB19C4A-D450-4E49-9EF6-5FCC2FDB10F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FirstLargerThanNeighbours", "04.FirstLargerThanNeighbours\04.FirstLargerThanNeighbours.csproj", "{C139B473-CDC7-4739-B486-7CE1A52A451A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9FB19C4A-D450-4E49-9EF6-5FCC2FDB10F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FB19C4A-D450-4E49-9EF6-5FCC2FDB10F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FB19C4A-D450-4E49-9EF6-5FCC2FDB10F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C139B473-CDC7-4739-B486-7CE1A52A451A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C139B473-CDC7-4739-B486-7CE1A52A451A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C139B473-CDC7-4739-B486-7CE1A52A451A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C139B473-CDC7-4739-B486-7CE1A52A451A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
