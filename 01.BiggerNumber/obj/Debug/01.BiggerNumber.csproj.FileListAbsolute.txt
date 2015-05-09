@@ -1,1 +1,6 @@
 D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe.config
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\01.BiggerNumber\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb
