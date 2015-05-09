@@ -1,0 +1,5 @@
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
