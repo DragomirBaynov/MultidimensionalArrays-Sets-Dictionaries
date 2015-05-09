@@ -1,0 +1,1 @@
+D:\SoftUni\C#AdvancedHomeWork\MultidimensionalArrays,Sets,Dictionaries\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
