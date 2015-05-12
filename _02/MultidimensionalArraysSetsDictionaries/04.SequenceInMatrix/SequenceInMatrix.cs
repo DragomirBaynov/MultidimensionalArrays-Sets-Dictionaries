@@ -66,7 +66,6 @@ class SequenceInMatrix
 			}
         
         result=""+counter+best;
-        Console.WriteLine(counter);
         return result;
     }
 
@@ -102,14 +101,14 @@ class SequenceInMatrix
         int n = int.Parse(size[0]);
         int m = int.Parse(size[1]);
         string[,] matrix = ReadMatrix(n, m);
-        Console.WriteLine("{0} {1}",matrix.GetLength(0),matrix.GetLength(1));
+        
        string resultD =  DiagonalChecker(matrix);
        string check = Checker(matrix);
        if (resultD[0]>check[0])
        {
-           for (int i = 0; i <Convert.ToInt32(resultD[0]); i++)
+           for (int i = 0; i <(int)resultD[0]-48; i++)
            {
-               Console.Write("{0}, ",resultD[1]);
+               Console.Write("{0}, ",resultD.Substring(1));
            }
        }
     }

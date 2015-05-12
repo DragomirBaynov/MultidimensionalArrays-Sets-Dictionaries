@@ -4,3 +4,6 @@ c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSet
 c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
 c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
 c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
+D:\SoftUni\MultidimensionalArrays-Sets-Dictionaries\_02\MultidimensionalArraysSetsDictionaries\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+D:\SoftUni\MultidimensionalArrays-Sets-Dictionaries\_02\MultidimensionalArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+D:\SoftUni\MultidimensionalArrays-Sets-Dictionaries\_02\MultidimensionalArraysSetsDictionaries\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
