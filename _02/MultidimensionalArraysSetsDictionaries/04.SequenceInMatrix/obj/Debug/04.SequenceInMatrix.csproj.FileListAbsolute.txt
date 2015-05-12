@@ -1,0 +1,6 @@
+c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe
+c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.pdb
+c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.csprojResolveAssemblyReference.cache
+c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+c:\users\techcar\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb
